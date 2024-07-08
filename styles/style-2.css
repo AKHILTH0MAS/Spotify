@@ -112,7 +112,7 @@
     padding: 0 24px;
   }
   .spacer-2 {
-    height: 54px;
+    height: 38px;
   }
 
   nav {
@@ -323,7 +323,7 @@
     height: 66px;
   }
   .spacer-2{
-    height: 38px;
+    height: 54px;
   }
 }
 @media screen and (min-width: 1092px) {
