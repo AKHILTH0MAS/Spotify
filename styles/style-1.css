@@ -377,6 +377,7 @@ footer {
     margin: 24px 0 0 0;
   }
   .smallfooter {
+    margin: 32px 0;
     padding: 0 24px;
   }
   .smallfooter-button {
@@ -385,7 +386,9 @@ footer {
   .spacer-2 {
     height: 38px;
   }
-
+  .smallfooter .p3 span{
+    margin: 0 0 16px 0;
+  }
   nav {
     display: none;
   }
